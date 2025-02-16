@@ -1,0 +1,14 @@
+ttkbootstrap==1.10.1
+numpy==1.24.3
+sounddevice==0.4.6
+mss==9.0.1
+moviepy==1.0.3
+boto3==1.28.44
+soundfile==0.12.1
+pynput==1.7.6
+Pillow==10.0.0
+decorator==4.4.2
+imageio==2.31.1
+proglog==0.1.10
+requests==2.31.0
+tqdm==4.66.1 
